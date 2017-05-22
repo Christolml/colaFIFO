@@ -1,0 +1,9 @@
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\Colas\FIFO\FIFO\bin\Debug\FIFO.exe.config
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\Colas\FIFO\FIFO\bin\Debug\FIFO.exe
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\Colas\FIFO\FIFO\bin\Debug\FIFO.pdb
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\Colas\FIFO\FIFO\obj\Debug\FIFO.csprojResolveAssemblyReference.cache
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\Colas\FIFO\FIFO\obj\Debug\FIFO.Form1.resources
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\Colas\FIFO\FIFO\obj\Debug\FIFO.Properties.Resources.resources
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\Colas\FIFO\FIFO\obj\Debug\FIFO.csproj.GenerateResource.Cache
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\Colas\FIFO\FIFO\obj\Debug\FIFO.exe
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\Colas\FIFO\FIFO\obj\Debug\FIFO.pdb
